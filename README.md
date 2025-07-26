@@ -19,8 +19,6 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mcribi&theme=flat&title=Stars,Followers,Commits,Issues,Repositories&margin-w=15&margin-h=15"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=mcribi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcribi&langs_count=10&layout=pie" alt="Most Used Languages" />
