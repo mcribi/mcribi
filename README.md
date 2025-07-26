@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm María</h1>
 <h3 align="center">Mathematician and Computer Scientist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mcribi&label=Profile%20views&color=0e75b6&style=flat" alt="mcribi" />
-</p>
-
-- 🎓 Mathematics and computer engineering student at the University of Granada, Spain [University of Granada](https://www.ugr.es)
+- 🎓 Mathematics and computer engineering student at [University of Granada](https://www.ugr.es), Spain 
 - 💡 Interested in AI, ML, DL and Computer Vision.
 - 🌱 Currently working on Risk prediction in lung biopsies
 - 📫 Reach me: mariacribilled@gmail.com
@@ -23,9 +19,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcribi&show_icons=true&theme=tokyonight" alt="mcribi stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mcribi&theme=flat&title=Stars,Followers,Commits,Issues,Repositories&margin-w=15&margin-h=15"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcribi&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mcribi&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcribi&langs_count=10&layout=pie" alt="Most Used Languages" />
 </p>
 
 ---
@@ -36,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 </p>
