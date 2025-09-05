@@ -47,7 +47,7 @@ Check out some of my favorite repositories!
 
 - 🫁 [TFG](https://github.com/mcribi/TFG) - Final Degree Project (TFG) on risk prediction in lung biopsies 
 - 🔬 [Medical-Segmentation](https://github.com/mcribi/Medical-Segmentation) - Medical Image Segmentation 2D and 3D 
-- 🤖 [Educational-programming-chatbot](https://github.com/mcribi/Educational-programming-chatbot) - Educational chatbot on Telegram to learn how to code for beginners (In progress)
+- 🤖 [Educational-programming-chatbot](https://github.com/mcribi/Educational-programming-chatbot) - Educational chatbot on Telegram to learn how to code for beginners
 
 ---
 
