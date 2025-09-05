@@ -5,6 +5,7 @@
 - 💡 Interested in AI, ML, DL and Computer Vision.
 - 🌱 Currently working on Risk prediction in lung biopsies
 - 📫 Reach me: mariacribilled@gmail.com
+- 🌐 Feel free to take a look at my portfolio: https://mariacribilles.com
 
 ---
 
